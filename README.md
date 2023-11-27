@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+[![MasterHead](https://services.harman.com/Blogs/PublishingImages/agile_blogbanner_0.jpg)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm Pursottam Bhandari</h1>
 <h3 align="center">Aspirant Frontend Web Development | AWS | Devops</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
