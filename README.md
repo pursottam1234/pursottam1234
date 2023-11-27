@@ -1,5 +1,5 @@
 <img alt="welcome" width="400" height="100" src="https://media.tenor.com/-K2MPdlOsxkAAAAC/digital-welcome.gif">
-<h1 align="center">Hi 👋, I'm Pursottam Bhandari</h1>
+<h1 align="center">Hi there👋, I'm Pursottam Bhandari</h1>
 <h3 align="center">Aspirant Frontend Development | AWS | Devops</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
