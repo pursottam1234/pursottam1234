@@ -1,4 +1,6 @@
-<div style="border: 5px solid blue; height: 10px; width: 200px;"><img align="center" alt="welcome" width="400" height="100" src="https://media.tenor.com/-K2MPdlOsxkAAAAC/digital-welcome.gif"></div>
+<div style="border: 5px solid yellow; height: 100; width: 100%; justify-content: center;">
+<p align="center"><img align="center" alt="welcome" width="400" height="100" src="https://media.tenor.com/-K2MPdlOsxkAAAAC/digital-welcome.gif"></p>
+
 <h1 align="center">Hi there👋, I'm Pursottam Bhandari</h1>
 <h3 align="center">Aspirant Frontend Development | AWS | Devops</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
@@ -34,3 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pursottam1234&show_icons=true&locale=en" alt="pursottam1234" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pursottam1234&" alt="pursottam1234" /></p>
+</div>
