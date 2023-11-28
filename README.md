@@ -10,13 +10,13 @@
 
 - 👯 I’m looking to collaborate on **Frontend web development and Devops projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pursottam1234](https://github.com/pursottam1234)
+- 👨‍💻 All of my projects are available [Here](https://github.com/pursottam1234)
 
 - 💬 Ask me about **Web development, Devops, AWS**
 
 - 📫 How to reach me **purush.bhandari69@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)
+- 📄 Know about my <a href="https://drive.google.com/file/d/1l1X481Uksmf_u8rASCNk88fCwRMh70q0/view?usp=sharing" >Experiences</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
