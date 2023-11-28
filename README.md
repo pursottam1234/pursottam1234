@@ -1,6 +1,5 @@
 <p align="center"><img alt="welcome" width="400" height="100" src="https://media.tenor.com/-K2MPdlOsxkAAAAC/digital-welcome.gif"></p>
-<h1 align="center">Hi there👋, I'm Pursottam Bhandari</h1>
-<h3 align="center">Aspirant Frontend Development | AWS | Devops</h3>
+
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pursottam1234&label=Profile%20views&color=0e75b6&style=flat" alt="pursottam1234" /> </p>
