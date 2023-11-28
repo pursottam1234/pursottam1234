@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **purush.bhandari69@gmail.com**
 
-- 📄 Know about my <a href= "https://drive.google.com/file/d/1l1X481Uksmf_u8rASCNk88fCwRMh70q0/view?usp=sharing" target= "_blank">Experiences</a>
+- 📄 Know about my <a href= "https://drive.google.com/file/d/1l1X481Uksmf_u8rASCNk88fCwRMh70q0/view?usp=sharing" target="_blank">Experiences</a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
