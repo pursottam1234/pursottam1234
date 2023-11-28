@@ -1,4 +1,4 @@
-<div style="border: 5px solid yellow; height: 100; width: 100%; display: flex; align-items: center; justify-content: center;">
+<div style="border: 5px solid yellow; height: 100; width: 100%; align-items: center; justify-content: center;">
 <p align="center"><img align="center" alt="welcome" width="400" height="100" src="https://media.tenor.com/-K2MPdlOsxkAAAAC/digital-welcome.gif"></p>
 
 <h1 align="center">Hi there👋, I'm Pursottam Bhandari</h1>
