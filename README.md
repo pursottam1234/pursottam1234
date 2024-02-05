@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend web development and Devops projects**
 
-- 👨‍💻 All of my projects are available [Here](https://github.com/pursottam1234)
+- 👨‍💻 All of my projects are available [Here](https://github.com/pursottam1234?tab=repositories)
 
 - 💬 Ask me about **Web development, Devops, AWS**
 
