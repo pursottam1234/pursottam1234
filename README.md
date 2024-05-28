@@ -2,7 +2,7 @@
 <p align="center"><img align="center" alt="welcome" width="400" height="100" src="https://media.tenor.com/-K2MPdlOsxkAAAAC/digital-welcome.gif"></p>
 
 <h1 align="center">Hi 👋 I'm Pursottam Bhandari</h1>
-<h3 align="center">Aspirant Frontend Development | AWS | Devops</h3>
+<h3 align="center">Aspirant Web Development | AWS | Devops</h3>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pursottam1234&label=Profile%20views&color=0e75b6&style=flat" alt="pursottam1234" /> </p>
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 👯 I’m looking to collaborate on **Frontend web development and Devops projects**
+- 👯 I’m looking to collaborate on **Web development and Devops projects**
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/pursottam1234?tab=repositories)
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my [Experiences](https://drive.google.com/file/d/1eadevH8GzslAume4UrFhCr-tJwVJpeG4/view?usp=sharing)
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Get in Touch with:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/pursottam-bhandari-5b1b21198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pursottam-bhandari-5b1b21198" height="30" width="40" /></a>
 <a href="https://fb.com/purush.brahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="purush.brahman" height="30" width="40" /></a>
