@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently pursuing **BSc.CSIT**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m have knowledge on **Devops, Web Development and Networking**
 
-- 👯 I’m looking to collaborate on **Web development and Devops projects**
+- 👯 I’m looking to collaborate on **Web development, Devops projects and also on Networking**
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/pursottam1234?tab=repositories)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **purush.bhandari69@gmail.com**
 
-- 📄 Know about my [Experiences](https://drive.google.com/file/d/1eadevH8GzslAume4UrFhCr-tJwVJpeG4/view?usp=sharing)
+- 📄 Know about my [Experiences](https://drive.google.com/file/d/1qrlldUR8AHuq2COqI0ETijLYID8wB5FE/view?usp=sharing)
 
 <h3 align="center">Get in Touch with:</h3>
 <p align="center">
