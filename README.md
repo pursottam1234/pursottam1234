@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **purush.bhandari69@gmail.com**
 
-- 📄 Know about my [Experiences](https://drive.google.com/file/d/1qrlldUR8AHuq2COqI0ETijLYID8wB5FE/view?usp=sharing)
+- 📄 Know about my Experiences with [Resume](https://drive.google.com/file/d/1qrlldUR8AHuq2COqI0ETijLYID8wB5FE/view?usp=sharing)
 
 <h3 align="center">Get in Touch with:</h3>
 <p align="center">
