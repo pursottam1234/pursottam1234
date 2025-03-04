@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Devops projects, AWS and also on Networking**
 
-- 👨‍💻 All of my projects are available [Here](https://github.com/pursottam1234?tab=repositories)
+- 👨‍💻 All of my projects are available [Here](https://github.com/pursottam1234?tab=repositories){:target="_blank"}
 
 - 💬 Ask me about **Networking, Devops, AWS**
 
@@ -23,10 +23,10 @@
 
 <h3 align="center">Get in Touch with:</h3>
 <p align="center">
-<a href="https://wa.me/9779812881421" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/whatsapp.svg" alt="pursottam-whatsapp" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/pursottam-bhandari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pursottam-bhandari" height="30" width="40" /></a>
-<a href="https://www.facebook.com/purush.brahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="purush.brahman" height="30" width="40" /></a>
-<a href="https://www.instagram.com/purush.bhandari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="purush.bhandari" height="30" width="40" /></a>
+<a href="https://wa.me/9779812881421" target="_blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/whatsapp.svg" alt="pursottam-whatsapp" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pursottam-bhandari/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pursottam-bhandari" height="30" width="40" /></a>
+<a href="https://www.facebook.com/purush.brahman" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="purush.brahman" height="30" width="40" /></a>
+<a href="https://www.instagram.com/purush.bhandari/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="purush.bhandari" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Tools & Technologies:</h3>
