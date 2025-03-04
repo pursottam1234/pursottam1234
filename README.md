@@ -2,33 +2,34 @@
 <p align="center"><img align="center" alt="welcome" width="400" height="100" src="https://media.tenor.com/-K2MPdlOsxkAAAAC/digital-welcome.gif"></p>
 
 <h1 align="center">Hi 👋 I'm Pursottam Bhandari</h1>
-<h3 align="center">Aspirant Network Engineering | DevOps | AWS | Web Development</h3>
+<h3 align="center">Aspiring Network Engineer | DevOps | AWS | Web Development</h3>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pursottam1234&label=Profile%20views&color=0e75b6&style=flat" alt="pursottam1234" /> </p>
 
 - 🔭 I’m currently pursuing **BSc.CSIT**
 
-- 🌱 I’m have knowledge on **Devops, Web Development and Networking**
+- 🌱 I’m have knowledge on **Devops, Web Development, AWS and Networking**
 
-- 👯 I’m looking to collaborate on **Web development, Devops projects and also on Networking**
+- 👯 I’m looking to collaborate on **Devops projects, AWS and also on Networking**
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/pursottam1234?tab=repositories)
 
-- 💬 Ask me about **Web development, Devops, AWS**
+- 💬 Ask me about **Networking, Devops, AWS**
 
 - 📫 How to reach me **purush.bhandari69@gmail.com**
 
-- 📄 Know about my Experiences with [Resume](https://drive.google.com/file/d/1qrlldUR8AHuq2COqI0ETijLYID8wB5FE/view?usp=sharing)
+- 📄 Know about my Experiences with [Resume](https://drive.google.com/file/d/1oTOesAYarUgDbD21ipWiZiVAfcf6FzP9/view?usp=sharing)
 
 <h3 align="center">Get in Touch with:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/pursottam-bhandari-5b1b21198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pursottam-bhandari-5b1b21198" height="30" width="40" /></a>
-<a href="https://fb.com/purush.brahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="purush.brahman" height="30" width="40" /></a>
-<a href="https://instagram.com/purush.bhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="purush.bhandari" height="30" width="40" /></a>
+  <a href="tel:+977-9812881421" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/whatsapp.svg" alt="pursottam-whatsapp" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pursottam-bhandari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pursottam-bhandari" height="30" width="40" /></a>
+<a href="https://www.facebook.com/purush.brahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="purush.brahman" height="30" width="40" /></a>
+<a href="https://www.instagram.com/purush.bhandari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="purush.bhandari" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Tools & Technologies:</h3>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
